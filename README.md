@@ -1,7 +1,5 @@
-# Research and Development of a Wearable Device for Gait Simulation and Analysis
+# Motion tracking
 
-## Introduction
-This project focuses on developing a wearable system for gait simulation and analysis. The system utilizes ESP32 microcontrollers and multiple MPU6050 sensors to capture motion data, process it, and transmit it to Blender for real-time visualization. The goal is to aid in medical diagnostics, health monitoring, and motion research.
 
 ![ảnh(3)](https://github.com/user-attachments/assets/a7d3d236-69ef-412a-8b90-cd1d1636b262)
 
